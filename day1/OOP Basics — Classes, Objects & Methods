@@ -1,0 +1,22 @@
+// this is the basic program for oops first day 
+import java.util.*;
+    public class Main
+    {
+        public static void main(String[] args)
+        {
+            Student student=new Student();
+            student.name="Rahul";
+            student.id=1;
+            student.mark=98;
+            student.display();
+        }
+    }
+    class Student {
+    String name;
+    int id;
+    int mark;
+    void display()
+    {
+        System.out.print("Name:" + name +"\n Id:"+ id + "\n Mark:" + mark);
+    }
+}
