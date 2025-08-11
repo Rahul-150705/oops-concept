@@ -1,0 +1,27 @@
+import java.util.*;
+// how to assign constructor and type of constructor 
+class Student{
+    String name;
+    int id;
+    int mark;
+    Student(){
+        name="Rahul";
+        id=1;
+        mark=99;
+    }
+    Student(String b,int c,int d)
+    {
+        name=b;
+        id=c;
+        mark=d;
+    }
+}
+public static Main{
+    public static void main(String[] args)
+    {
+        Student s1=new Student(); // default constructor and value is assigned inside the constructor 
+        System.out.print("name:" + s1.name +"id:" + s1.id + "mark:" + s1.mark );
+        Student s2=new Student("Ranbir",2,99); // parametrized constructor value inside object 
+        System.out.print("name" + s2.name +"id" + s2.id + "mark:" + s2.mark );
+    }
+}
