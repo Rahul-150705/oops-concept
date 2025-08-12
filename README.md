@@ -9,7 +9,7 @@ Day 2: Fields, Methods, this keyword
 
 Day 3: Constructors (Default, Parameterized, Copy)
 
-Day 4: Encapsulation & Access Modifiers (Today)
+Day 4: Encapsulation & Access Modifiers
 
 Day 5: static keyword (variables, methods, blocks)
 
