@@ -1,0 +1,5 @@
+Encapsulation is the process of hiding the internal details of an object and only exposing controlled access through methods.
+You keep fields private and provide public methods (getters/setters) to access or modify them.
+
+real time example:
+if we use encapsulation then when we update deposit and withdraw balance automatically will update its one of major use of encapsulation 
