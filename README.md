@@ -1,63 +1,32 @@
-                                                                                Welcome To My OOPS Journey
-
-Day-by-Day Plan
-Class & Object Basics – Syntax, fields, methods, creating objects.
-
-Instance Variables & Methods – Access via object, differences from local variables.
-
-Constructors (Default & Parameterized) – Definition, rules, usage.
-
-Constructor Overloading + Copy Constructor – Multiple constructors, copying object values.
-
-this Keyword (Basic Uses) – Resolving variable shadowing, constructor chaining.
-
-static Keyword – Static variables, static methods, static blocks.
-
-Review + Mini Project – BankAccount class with deposit/withdraw.
-
-Access Modifiers – private, default, protected, public.
-
-Encapsulation – Getters & setters, why fields should be private.
-
-Inheritance Basics – extends keyword, single inheritance.
-
-Multilevel + Hierarchical Inheritance – Chaining multiple levels.
-
-super Keyword – Access parent members & constructors.
-
-Method Overriding – Runtime polymorphism basics.
-
-Review + Mini Project – Employee management system.
-
-Method Overloading – Compile-time polymorphism.
-
-Runtime Polymorphism – Dynamic method dispatch & upcasting.
-
-Abstract Classes – Abstract methods & partial abstraction.
-
-Interfaces – Multiple inheritance & contracts.
-
-Default & Static Methods in Interfaces – Java 8+ features.
-
-final Keyword – Constants, preventing overriding & inheritance.
-
-Review + Mini Project – Ride-hailing system.
-
-Inner & Nested Classes – Non-static inner, static nested, local inner classes.
-
-Object Class Methods – toString(), equals(), hashCode().
-
-Wrapper Classes + Autoboxing/Unboxing – Primitive ↔ Object conversions.
-
-instanceof Operator – Runtime type checking.
-
-Packages – Creating and importing user-defined packages.
-
-Exception Handling Basics – try, catch, finally, throw, throws.
-
-Custom Exceptions – Creating your own exception classes.
-
-OOP Principles – DRY, SRP, cohesion & coupling basics.
-
-Final Review + Project – Library Management System.
-
+| Day | Topic                                          | Subtopics                                                          |
+| --- | ---------------------------------------------- | ------------------------------------------------------------------ |
+| 1   | **Class & Object Basics**                      | Class syntax, fields, methods, creating objects, accessing members |
+| 2   | **Instance Variables & Methods**               | Scope, difference from local variables, object references          |
+| 3   | **Constructors – Default & Parameterized**     | Rules, initialization, memory allocation during object creation    |
+| 4   | **Constructor Overloading + Copy Constructor** | Overloading rules, object cloning basics                           |
+| 5   | **`this` Keyword (Basic Uses)**                | Resolving variable shadowing, constructor chaining                 |
+| 6   | **`static` Keyword**                           | Static variables, static methods, static blocks, restrictions      |
+| 7   | **Review + Mini Project**                      | *BankAccount* – deposit, withdraw, check balance                   |
+| 8   | **Access Modifiers**                           | `private`, `default`, `protected`, `public`, visibility levels     |
+| 9   | **Encapsulation**                              | Private fields, getters/setters, data hiding, validation logic     |
+| 10  | **Inheritance Basics**                         | `extends` keyword, IS-A relationship, object hierarchy             |
+| 11  | **Multilevel & Hierarchical Inheritance**      | Inheritance chains, reusability in design                          |
+| 12  | **`super` Keyword**                            | Access parent members, call parent constructor                     |
+| 13  | **Method Overriding**                          | Runtime polymorphism, overriding rules                             |
+| 14  | **Review + Mini Project**                      | *Employee Management System*                                       |
+| 15  | **Method Overloading**                         | Compile-time polymorphism, overloading rules                       |
+| 16  | **Runtime Polymorphism**                       | Dynamic method dispatch, upcasting                                 |
+| 17  | **Abstract Classes**                           | Abstract methods, partial abstraction                              |
+| 18  | **Interfaces**                                 | Multiple inheritance, interface contracts                          |
+| 19  | **Default & Static Methods in Interfaces**     | Java 8+ features, backward compatibility                           |
+| 20  | **`final` Keyword**                            | Constants, preventing override/inheritance                         |
+| 21  | **Review + Mini Project**                      | *Ride-Hailing System*                                              |
+| 22  | **Inner & Nested Classes**                     | Non-static inner, static nested, local inner, anonymous classes    |
+| 23  | **`Object` Class Methods**                     | `toString()`, `equals()`, `hashCode()`, `clone()` basics           |
+| 24  | **Wrapper Classes & Autoboxing**               | Primitive ↔ Object conversions, unboxing                           |
+| 25  | **`instanceof` Operator**                      | Runtime type checking, safe casting                                |
+| 26  | **Packages**                                   | Built-in vs user-defined packages, `import`, static imports        |
+| 27  | **Exception Handling Basics**                  | `try`, `catch`, `finally`, `throw`, `throws`, checked vs unchecked |
+| 28  | **Custom Exceptions**                          | Extending `Exception`, custom error messages                       |
+| 29  | **OOP Principles**                             | DRY, SRP, cohesion, coupling, open/closed principle                |
+| 30  | **Final Review + Project**                     | *Library Management System* – combining all concepts               |
