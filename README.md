@@ -1,18 +1,63 @@
-Welcome To My OOPS Journey
+                                                                                Welcome To My OOPS Journey
 
-Week 1 — OOP Basics & Foundations
-Goal: Build strong base in Java OOP fundamentals.
+Day-by-Day Plan
+Class & Object Basics – Syntax, fields, methods, creating objects.
 
-Day 1: Intro to OOP, Class & Object basics
+Instance Variables & Methods – Access via object, differences from local variables.
 
-Day 2: Fields, Methods, this keyword
+Constructors (Default & Parameterized) – Definition, rules, usage.
 
-Day 3: Constructors (Default, Parameterized, Copy)
+Constructor Overloading + Copy Constructor – Multiple constructors, copying object values.
 
-Day 4: Encapsulation & Access Modifiers
+this Keyword (Basic Uses) – Resolving variable shadowing, constructor chaining.
 
-Day 5: static keyword (variables, methods, blocks)
+static Keyword – Static variables, static methods, static blocks.
 
-Day 6: final keyword (variables, methods, classes)
+Review + Mini Project – BankAccount class with deposit/withdraw.
 
-Day 7: Review + Mini project (basic class design)
+Access Modifiers – private, default, protected, public.
+
+Encapsulation – Getters & setters, why fields should be private.
+
+Inheritance Basics – extends keyword, single inheritance.
+
+Multilevel + Hierarchical Inheritance – Chaining multiple levels.
+
+super Keyword – Access parent members & constructors.
+
+Method Overriding – Runtime polymorphism basics.
+
+Review + Mini Project – Employee management system.
+
+Method Overloading – Compile-time polymorphism.
+
+Runtime Polymorphism – Dynamic method dispatch & upcasting.
+
+Abstract Classes – Abstract methods & partial abstraction.
+
+Interfaces – Multiple inheritance & contracts.
+
+Default & Static Methods in Interfaces – Java 8+ features.
+
+final Keyword – Constants, preventing overriding & inheritance.
+
+Review + Mini Project – Ride-hailing system.
+
+Inner & Nested Classes – Non-static inner, static nested, local inner classes.
+
+Object Class Methods – toString(), equals(), hashCode().
+
+Wrapper Classes + Autoboxing/Unboxing – Primitive ↔ Object conversions.
+
+instanceof Operator – Runtime type checking.
+
+Packages – Creating and importing user-defined packages.
+
+Exception Handling Basics – try, catch, finally, throw, throws.
+
+Custom Exceptions – Creating your own exception classes.
+
+OOP Principles – DRY, SRP, cohesion & coupling basics.
+
+Final Review + Project – Library Management System.
+
